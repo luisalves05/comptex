@@ -1,7 +1,7 @@
 
 # LaTeX template
 
-LaTeX template destinado a trabalhos acadêmicos do curso de Ciência da Computação da UECE. 
+Template em LaTeX destinado a trabalhos acadêmicos do curso de Ciência da Computação da UECE. 
 
 ## Mode de usar
  * Clone/fork ou faça o [download][comptex-uece] do repositório.
