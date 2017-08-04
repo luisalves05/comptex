@@ -3,7 +3,7 @@
 
 This is a LaTeX template for academic reports that I use in my Computer Science courses.
 
-## Mode de usar
+## How to use
  * Clone/fork or you can [download][comptex-uece] from the repository
  * Next, you can upload the project to your favorite online editor like [Overleaf][overleaf] or [ShareLaTeX][sharelatex].
  * Do you want to improve this template? Clone/fork the repository, and make a pull request directly. 
